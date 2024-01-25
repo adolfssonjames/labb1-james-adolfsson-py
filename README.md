@@ -10,7 +10,9 @@
 
 I explorer kan du hitta dina filer. använd kortkommandot `Ctrl + Shift + E` för att hitta explorer. klicka på python filen.
 
-### Steg 2: när du är i python filen så trycker du på en "play ikon" högst upp i högra hörnet alternativt vänstra hörnet beroende på din VS Code
+### Steg 2: Play ikon knapp
+
+när du är i python filen så trycker du på en "play ikon" högst upp i högra hörnet alternativt vänstra hörnet beroende på din VS Code
 
 ## Via Terminalen:
 
