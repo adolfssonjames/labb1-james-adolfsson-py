@@ -1,8 +1,8 @@
 # Sten Sax Påse Spelet
 
-### För att starta och använda Sten Sax Påse spelet, följ stegen nedan.
+## Det finns flera sätt att starta spelet på.
 
-## Det finns flera sätt att starta spelet på. Vänligen se alternativ nedan.
+### För att starta och använda Sten Sax Påse spelet, följ stegen nedan.
 
 ## Via play knapp i VS Code:
 
