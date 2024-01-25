@@ -8,7 +8,7 @@
 
 ### Steg 1: navigera så att du är i python filen (sten-sax-pase.py)
 
-I explorer kan du hitta dina filer. använd kortkommandot `Ctrl + Shift + E` för att hitta explorer. klicka på python filen.
+I explorer kan du hitta dina filer. använd kortkommandot `Ctrl + Shift + E` (för Windows) för att hitta explorer. klicka på python filen. I detta fall "sten-sax-pase-py"
 
 ### Steg 2: Play ikon knapp
 
